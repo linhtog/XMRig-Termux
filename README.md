@@ -42,6 +42,6 @@ Enter `ls` and you will get a list of everything within the folder you're in.
 
 Enter this to start the miner.
 ```
-./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u ETH:0xab5122c4e645fbe270cb21f82e7d59c9cb6f9492.xoner#5c6g-ytbe -p x
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u ETH:0xab5122c4e645fbe270cb21f82e7d59c9cb6f9492.android#5c6g-ytbe -p x
 ```
 ![image](https://user-images.githubusercontent.com/84473858/124391157-8f09a300-dcef-11eb-8294-144837e7b641.png)
